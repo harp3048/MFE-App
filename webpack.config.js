@@ -51,7 +51,7 @@ module.exports = {
       name: "app3",
       filename: "remoteEntry.js",
       exposes: {
-        "./App3LoginForm": "./src/App3LoginForm",
+        "./App3Component": "./src/App3Component",
       },
     }),
     new HtmlWebpackPlugin({

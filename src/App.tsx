@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import App3LoginForm from './App3LoginForm';
+import App3Component from './App3Component';
 
 function App() {
   return (
     <div>
-      <App3LoginForm />
+      <App3Component />
     </div>
   );
 }
